@@ -27,4 +27,5 @@ The **ONOS A1 Termination** component in **SD-RAN ORAN** is vulnerable to a DoS 
 
 ## PoC Video
 - Watch the video showcasing the PoC running on a Vagrant VM with Ubuntu 20.04.
+- https://youtu.be/dRtyfYEY1U0
   
